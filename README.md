@@ -28,9 +28,10 @@ Important message: https://youtu.be/dQw4w9WgXcQ
 wróbel
 
 This is another line which I want to add :D
-
+something new
 Even more text :D
 
 look! a new line
 
 and one more
+new line
