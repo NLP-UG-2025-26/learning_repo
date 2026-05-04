@@ -30,3 +30,7 @@ wróbel
 This is another line which I want to add :D
 
 Even more text :D
+
+look! a new line
+
+and one more
