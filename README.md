@@ -35,5 +35,5 @@ look! nothing new
 cokolwiek innego
 
 
-and one more
-new line
+text1
+text2
