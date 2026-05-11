@@ -34,6 +34,5 @@ Even more text :D
 look! nothing new
 cokolwiek innego
 
-
-what a fascinating change
+text1
 how intriguing!
