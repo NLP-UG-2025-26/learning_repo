@@ -31,7 +31,9 @@ This is another line which I want to add :D
 something new
 Even more text :D
 
-cokolwiek innego napisac
+look! nothing new
+cokolwiek innego
+
 
 and one more
 new line
